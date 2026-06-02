@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ibarram/ProcesosEstocasticos/">
-    <img src="doc/img/UG_DICIS.png" alt="Logo" width="551" height="469">
+    <img src="doc/img/UG_DICIS.png" alt="Logo" width="276" height="235">
   </a>
 
   <h3 align="center">Procesos Estocásticos (GE03.04)</h3>
