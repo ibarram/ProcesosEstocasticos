@@ -69,11 +69,10 @@ Esta Unidad de Aprendizaje (UDA) es una materia disciplinaria del **Área Básic
 - **UDA:** Procesos Estocásticos
 - **Clave:** GE03.04
 - **Programa:** Doctorado en Ingeniería Eléctrica
-- **Créditos:** 4 (150 horas totales: 72 con profesor + 78 autónomas)
+- **Créditos:** 4 (100 horas totales: 42 con profesor + 58 autónomas)
 - **Horas semana/cuatrimestre:** 4
 - **Prerrequisito normativo:** Ninguno
 - **Prerrequisito recomendable:** Métodos Matemáticos (GE01.04)
-- **Elaboró:** Dr. Arturo García Pérez
 - **Imparte:** Dr. Mario Alberto Ibarra Manzano
 
 ## Competencia de la UDA
