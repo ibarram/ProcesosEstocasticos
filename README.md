@@ -81,9 +81,9 @@ Esta Unidad de Aprendizaje (UDA) es una materia disciplinaria del **Área Básic
 
 ## Contenido
 
-El temario se organiza en los siguientes ejes temáticos:
+El [temario](/doc/slide/0_Introduccion.pdf) se organiza en los siguientes ejes temáticos:
 
-1. **Conceptos básicos de la teoría de la probabilidad**
+1. [**Conceptos básicos de la teoría de la probabilidad**](doc/slide/1_Conceptos.pdf)
    - Experimentos aleatorios, espacio muestral y axiomas
    - Probabilidad condicional, independencia, Bayes
    - Análisis combinatorio e interpretaciones de la probabilidad
@@ -138,9 +138,8 @@ El temario se organiza en los siguientes ejes temáticos:
 
 ### Portafolio de evidencias
 
-- **Plataforma:** Microsoft Teams
 - **Entrega por correo:** `mibarram@ugto.mx`
-- **Asunto:** `PE 2026 PE## NUA Apellidos`
+- **Asunto:** `PE_20262_PE_NUA_Apellidos`
 - **Formato:** reporte **PDF** con desarrollo teórico, código y resultados
 - **Restricción:** **no** entregar ejecutables; **solo** código fuente y reporte
 - **Fecha de entrega:** 1 semana a partir de la asignación
@@ -156,9 +155,8 @@ El temario se organiza en los siguientes ejes temáticos:
 
 ### Proyecto integrador
 
-- **Plataforma:** Microsoft Teams
 - **Entrega por correo:** `mibarram@ugto.mx`
-- **Asunto:** `PE 2026 Py## NUA Apellidos`
+- **Asunto:** `PE_20262_Py##_NUA Apellidos`
 - **Lenguajes preferentes:** MATLAB, R y C
 - **Entregables:**
   - Reporte **PDF** (introducción, desarrollo, resultados, análisis y conclusiones)
@@ -179,8 +177,6 @@ El temario se organiza en los siguientes ejes temáticos:
 ## Repositorio y plataformas
 
 - **Repositorio oficial (GitHub):** https://github.com/ibarram/ProcesosEstocasticos/
-- **Microsoft Teams:** liga compartida en clase
-- **Materiales complementarios (Dropbox):** liga compartida en Teams
 
 Plataformas de práctica recomendadas:
 - MATLAB Online, GNU Octave, RStudio, Google Colab (R/Python)
@@ -290,4 +286,4 @@ Unidad de Aprendizaje: [Procesos Estocásticos GE03.04](https://github.com/ibarr
 
 ## Licencia
 
-Este repositorio se distribuye bajo **GPL-3.0**. Consulta el archivo `LICENSE`.
+Este repositorio se distribuye bajo **GNU General Public License v3.0**. Consulta el archivo `LICENSE`.
