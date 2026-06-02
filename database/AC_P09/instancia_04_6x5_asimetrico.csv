@@ -1,0 +1,10 @@
+# Problema 1 — Instancia 04: caso asimétrico (n=6, m=5)
+# Filas = trabajos J1..J6  |  Columnas = máquinas M1..M5
+# Tiempos de proceso p(i,j)
+# Instancia heterogénea: alta varianza en tiempos, prueba casos extremos
+1,9,2,8,1
+8,1,7,2,9
+2,8,3,7,2
+7,2,8,1,8
+3,7,1,9,3
+9,1,6,2,7

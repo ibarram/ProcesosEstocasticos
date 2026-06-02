@@ -1,0 +1,7 @@
+# Problema 1 — Instancia 01: caso mínimo (n=3, m=2)
+# Filas = trabajos J1..J3  |  Columnas = máquinas M1, M2
+# Tiempos de proceso p(i,j)
+# Secuencia óptima conocida (regla de Johnson): J2 → J1 → J3  →  C_max = 17
+4,5
+2,8
+6,3

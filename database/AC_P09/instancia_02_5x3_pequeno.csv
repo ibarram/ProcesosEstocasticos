@@ -1,0 +1,9 @@
+# Problema 1 — Instancia 02: caso pequeño (n=5, m=3)
+# Filas = trabajos J1..J5  |  Columnas = máquinas M1, M2, M3
+# Tiempos de proceso p(i,j)
+# Instancia balanceada: carga similar en todas las máquinas
+3,5,2
+6,1,7
+4,8,1
+2,3,6
+5,4,3
