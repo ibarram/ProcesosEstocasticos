@@ -1,0 +1,16 @@
+clc;
+close all;
+clear;
+
+p = [3 5 2 4; 6 1 7 3; 4 8 1 5; 2 3 6 2; 5 4 3 7];
+[n, m] = size(p);
+
+pr = [3, 1, 5, 4, 2];
+
+C1 = makespan(n, m, p, pr);
+
+prs = perms(1:n);
+nf1 = factorial(n);
+nf2 = size(prs,1);
+
+
