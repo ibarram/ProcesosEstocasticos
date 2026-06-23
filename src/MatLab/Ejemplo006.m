@@ -92,3 +92,14 @@ f_BuC = f_B|f_C;
 BuC   = omg(f_BuC,:);
 n_BuC = sum(f_BuC);      % Cardinalidad: |B ∪ C| = 7
 
+f_M1 = ~(f_A|f_B);
+f_M2 = f_Ac&f_Bc;
+M_AB = prod(f_M1==f_M2);
+
+f_M1 = ~(f_A|f_C);
+f_M2 = f_Ac&f_Cc;
+M_AC = prod(f_M1==f_M2);
+
+f_M1 = ~(f_B|f_C);
+f_M2 = f_Bc&f_Cc;
+M_BC = prod(f_M1==f_M2);
