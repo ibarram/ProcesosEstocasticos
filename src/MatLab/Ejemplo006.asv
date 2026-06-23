@@ -91,4 +91,3 @@ n_AuC = sum(f_AuC);      % Cardinalidad: |A ∪ C| = 6
 f_BuC = f_B|f_C;
 BuC   = omg(f_BuC,:);
 n_BuC = sum(f_BuC);      % Cardinalidad: |B ∪ C| = 7
-
